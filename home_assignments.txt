@@ -17,4 +17,4 @@ lw   - MR/RW
 beqz - LP
 nop  - --
 
-The contents of the memory location 24 bits back is 0x20.
+The contents of the memory location 24 bits back is t2+0x20.
