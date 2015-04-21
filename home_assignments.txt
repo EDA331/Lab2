@@ -1,0 +1,20 @@
+1.1:
+ 
+5 clock cycles for the pipeline to get full.
+
+2.1:
+
+Functional units which are not clocked by the system clock: Instruction memory, Registers, sign extend, ALU, Add,
+Data memory, muxes, shift left.
+
+There are 11(?) 32-bit pipeline registers.
+
+2.2:
+
+addi - AL/RW
+sw   - RR/MW
+lw   - MR/RW
+beqz - LP
+nop  - --
+
+The contents of the memory location 24 bits back is 0x20.

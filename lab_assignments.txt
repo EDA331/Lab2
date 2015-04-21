@@ -1,0 +1,10 @@
+Task 2.1
+
+ADDI was loaded.
+
+RR
+
+Operands of the ALU come from the instruction memory
+
+0x20
+
